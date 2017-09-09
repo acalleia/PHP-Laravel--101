@@ -85,7 +85,7 @@ bash init.sh
 
 to example:
 
-![after](./assets/ex-after.png)
+![after](./assets/folder-after.png)
 
 - In the terminal type:
 ```
